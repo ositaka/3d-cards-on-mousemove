@@ -20,20 +20,20 @@ body {
 }
 .card {
   transform-style: preserve-3d;
-  min-height: 60vh;
-  width: 35rem;
+  min-height: 45vh;
+  min-width: 30vw;
   border-radius: 30px;
   margin: 2em;
-  padding: 0rem 5rem;
+  padding: 0rem 3.75rem;
   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
 }
 .info h1 {
-  font-size: 3rem;
-  margin-top: 5vh;
+  font-size: 2rem;
+  margin-top: 8vh;
   transition: all 0.75s ease-out;
 }
 .info h3 {
-  font-size: 1.3rem;
+  font-size: 1rem;
   padding: 2rem 0rem;
   color: #585858;
   font-weight: lighter;
